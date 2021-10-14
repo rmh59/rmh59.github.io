@@ -1,0 +1,10 @@
+#purpleversion {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #990073 ;
+    text-align: center;
+    border-style: double;
+    border-radius: 5px;
+    border-color: #990073;
+    margin-left: 25%;
+    margin-right: 25%;
+}

@@ -1,0 +1,14 @@
+.redhighlight {
+    color: green;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.bluehighlight {
+    color: pink;
+    font-size: 1.3em;
+    font-weight: 700;
+}
+#rightside {
+    float: right;
+    margin: 50px;
+}

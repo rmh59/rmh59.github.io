@@ -1,0 +1,58 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #990073 ;
+    text-align: center;
+    border-style: double;
+    border-radius: 5px;
+    border-color: #990073;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+    text-align: left;
+    margin-right: 5%;
+    float: right;
+}
+
+div.fixed {
+position: fixed;
+bottom: 0;
+right: 0;
+width: 300px
+float: left;
+}
+
+div.text {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: darkblue;
+margin-right: 5%
+float: right;
+}
+
+#div1 {
+    padding: 20px; 
+    float: left;
+}
+#div2 {
+    float: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+    text-align: right;
+    margin-right: 5%;
+    size: 48px;
+}
+a:link {
+    color: darkblue
+}
+a:visited {
+    color: #990073
+}
+a:hover {
+    color: #990073
+}
+a:active {
+    color:#990073
+}
