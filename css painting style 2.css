@@ -1,0 +1,341 @@
+
+#greenrectangle1 {
+    height: 329px;
+    width: 60px;
+    background-color: #2f3921;
+    z-index: index 1;
+     
+}
+#bluerectangle1 {
+    height: 329px;
+    width: 140px;;
+    background-color: #5b61ab;
+    z-index: index 2;
+    position: relative;
+    left: 60px;
+    top: -329px;
+}
+#greenrectangle2 {
+    height: 41px;
+    width: 238px;
+    background-color: #2f3921;
+    z-index: index 3;
+    position:relative;
+    left: 200px;
+    top: -658px;
+}
+#yellowrectangle1 {
+    height: 288px;;
+    width: 238px;;
+    background-color: #fee739;
+    z-index: index 4;
+    position: relative;
+    left: 200px;
+    top: -658px;
+}
+#redrectangle1 {
+    height: 41px;
+    width: 104px;
+    background-color: #ee3024;
+    z-index: index 5;
+    position: relative;
+    left: 438px;
+    top: -987px;
+}
+#whiterectangle1 {
+    height: 191px;
+    width: 81px;
+    background-color: white;
+    z-index: index 6;
+    position: relative;
+    left: 438px;;
+    top: -987px;
+}
+#redrectangle2 {
+    height: 191px;
+    width: 23px;
+    background-color: #ee3024;
+    z-index: index 7;
+    position: relative;
+    left: 519px;
+    top: -1178px;
+}
+#greenrectangle3 {
+    height: 97px;
+    width: 104px;
+    background-color: #2f3921;
+    z-index: index 8;
+    position: relative;
+    left: 438px;
+    top: -1178px;
+}
+#bluerectangle2 {
+    height: 329px;
+    width: 116px; 
+    background-color: #5b61ab;
+    z-index: index 9;
+    position: relative;
+    left: 542px;
+    top: -1507px;
+}
+#greenrectangle5 {
+    height: 55px;
+    width: 218px;
+    background-color: #2f3921;
+    z-index: index 10;
+    position: relative;
+    left: 658px;
+    top: -1836px;
+}
+#yellowrectangle3 { 
+    height: 274px;
+    width: 218px;
+    background-color: #fee739;
+    z-index: index 11;
+    position: relative;
+    left: 658px;
+    top: -1836px;
+}
+#bluerectangle3 {
+    height: 55px;
+    width: 214px;
+    background-color: #5b61ab ;
+    z-index: index 12;
+    position: relative;
+    left: 876px;
+    top: -2165px;
+}
+#greenrectangle6 {
+  height: 274px;
+  width: 131px;
+  background-color: #2f3921;
+  z-index: index 13;
+  position: relative;
+  left:876px;
+  top: -2165px;
+}
+#bluerectangle4 {
+    height: 274px;
+    width: 83px;
+    background-color: #5b61ab;
+    z-index: index 14;
+    position: relative;
+    left: 1007px;
+    top: -2439px;
+}
+#yellowrectangle2 { /*this is the one */
+    height: 240px;
+    width: 101px;
+    background-color: #fee739;
+    z-index: index 15;
+    position: relative;
+    top: -2439px;
+}
+#greenrectangle4 {
+    height: 98px;
+    width: 441px;
+    background-color: #2f3921;
+    z-index: index 16;
+    position: relative;
+    left: 101px;
+    top: -2679px;
+}
+#greenrectangle7 {
+    height: 142px;
+    width: 82px;
+    background-color:#2f3921;
+    z-index: index 17;
+    position: relative;
+    left: 101px;
+    top: -2679px;
+}
+#bluerectangle5 {
+    height: 142px;
+    width: 92px;
+    background-color: #5b61ab;
+    z-index: index 18;
+    position: relative;
+    left: 183px;
+    top: -2821px;
+}
+#yellowrectangle4 {
+    height: 142px;
+    width: 267px;
+    background-color: #fee739;
+    z-index: index 19;
+    position: relative;
+    left: 275px;
+    top: -2963px;
+}
+#redrectangle3 {
+    height: 240px;
+    width: 34px;
+    background-color: #ee3024;
+    z-index: index 20;
+    position: relative;
+    left: 542px;
+    top: -3203px;
+}
+#whiterectangle2 {
+    height: 240px;
+    width: 82px;
+    background-color:white;
+    z-index: index 21;
+    position: relative;
+    left: 576px;
+    top: -3443px;
+}
+#greenrectangle8 { 
+    height: 240px;
+    width: 108px;
+    background-color: #2f3921;
+    z-index: index 22;
+    position: relative;
+    left: 658px;
+    top: -3683px;
+}
+#greenrectangle9 { 
+    height: 98px; 
+    width: 241px;
+    background-color: #2f3921;
+    z-index: index 22;
+    position: relative;
+    left: 766px;
+    top: -3923px;
+}
+#yellowrectangle5 {
+    height: 142px;
+    width: 241px;
+    background-color:#fee739;
+    z-index: index 23;
+    position: relative;
+    left: 766px;
+    top: -3923px;
+}
+#yellowrectangle6 {
+    height: 471px;
+    width: 83px;
+    background-color: #fee739;
+    z-index: index 24;
+    position: relative;
+    left: 1007px;
+    top: -4163px;
+}
+#greenrectangle10 { /* this is the other one */
+    height: 111px;
+    width: 183px;
+    background-color:#2f3921 ;
+    z-index: index 25;
+    position: relative;
+    top: -4401px;
+}
+#bluerectangle6 {
+    height: 111px;
+    width: 92px;
+    background-color:#5b61ab;
+    z-index: index 26;
+    position: relative;
+    left: 183px;
+    top: -4512px;
+}
+#yellowrectangle7 {
+    height: 111px;
+    width: 267px;
+    background-color: #fee739;
+    z-index: index 27;
+    position: relative;
+    left: 275px;
+    top: -4623px;
+}
+#redrectangle4 {
+    height: 237px;
+    width: 69px;
+    background-color:#ee3024;
+    z-index: index 28;
+    position: relative;
+    left: 542px;
+    top: -4732px;
+}
+#bluerectangle7 {
+    height: 237px;
+    width: 47px;
+    background-color: #5b61ab;
+    z-index: index 29;
+    position: relative;
+    left: 611px;
+    top: -4969px;
+}
+#greenrectangle11 {
+    height: 88px;
+    width: 173px;
+    background-color: #2f3921;
+    z-index: index 30;
+    position: relative;
+    left: 658px;
+    top: -5201px;
+}
+#bluerectangle8 {
+    height: 88px;
+    width: 175px;
+    background-color: #5b61ab;
+    z-index: index 31;
+    position:relative;
+    left: 831px;
+    top: -5289px;
+}
+#bluerectangle9 {
+    height: 144px;
+    width: 173px;
+    background-color: #5b61ab;
+    z-index: index 32;
+    position: relative;
+    left: 658px;
+    top: -5289px;
+}
+#greenrectangle12 {
+    height: 144px;
+    width: 175px;
+    background-color: #2f3921;
+    z-index: index 33;
+    position:relative;
+    left: 831px;
+    top: -5433px;
+}
+#yellowrectangle8 {
+    height: 128px;
+    width: 101px;
+    background-color: #fee739;
+    z-index: index 34;
+    position: relative;
+    top: -5561px;
+}
+#greenrectangle13 {
+    height: 128px;
+    width: 82px;
+    background-color: #2f3921;
+    z-index: index 35;
+    position: relative;
+    left: 101px;
+    top: -5689px;
+}
+#bluerectangle10 {
+    height: 128px;
+    width: 92px;
+    background-color: #5b61ab;
+    z-index: index 36;
+    position: relative;
+    left: 183px;
+    top: -5817px;
+}
+#thelastfuckinggreenrectanglethankgod {
+    height: 128px;
+    width: 267px;
+    background-color: #2f3921;
+    z-index: index 37;
+    position: relative;
+    left: 275px;
+    top: -5945px;
+}
+.center {
+    horizontal-align: middle;
+}
