@@ -1,0 +1,50 @@
+#container1 { /*container for the site*/ 
+    width: 1900px;
+    height: 1500px;
+}
+#container2 { /* container for images */
+    width: 1900px;
+    height: 1232px;
+}
+#image1 {
+    z-index: 10;
+    width: 1905px;
+    height: 1232px;
+    alt: a busy street with bright colors;
+    
+}
+#image2 {
+    z-index: 3;
+    width: 1905px;
+    height: 1232px;
+    alt: picture frames;
+    position: relative;
+    top: -1232px;
+
+}
+#image3 {
+    z-index: 4;
+    width: 549px;
+    height: 308px;
+    alt: collage;
+    position: relative;
+    top: -1883px;
+}
+
+/* unvisited link */
+a.link {
+    color: white;
+}
+/*visited link*/
+a.visited {
+    color: wheat;
+}
+/* mouse over link*/
+a.hover {
+    color: tomato;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
